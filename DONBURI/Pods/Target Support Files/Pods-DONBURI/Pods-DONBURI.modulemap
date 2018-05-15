@@ -1,0 +1,6 @@
+framework module Pods_DONBURI {
+  umbrella header "Pods-DONBURI-umbrella.h"
+
+  export *
+  module * { export * }
+}
